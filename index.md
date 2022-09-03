@@ -1,3 +1,9 @@
+# Troy Luhman's first CS 193 Homework
+
+- I like that this is a practical focused course so you do real world stuff
+- I like that its taught by TAs rather than a professor so it feels less intense
+- I like that class is only an hour or so
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
